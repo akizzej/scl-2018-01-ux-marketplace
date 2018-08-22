@@ -34,8 +34,7 @@ La falta de un sistema de envios a domicilio que le ahorre al usuario el tener q
 
     * Customer Journey Map *[aquí](https://drive.google.com/file/d/1-KgeUGA6iJVMcMGTwM2cgFs6480y6mk0/view?usp=sharing)
 
-* Definición de la solución/producto
-### 2) Definición del producto
+## "Definición de la solución/producto"
 
 Al definir el producto recuerda pensar en:
 
@@ -51,7 +50,7 @@ Al definir el producto recuerda pensar en:
 * Cómo crees que el producto les está resolviendo sus problemas
 
 
-* Link a prototipo navegable
+* Link a prototipo navegable [aquí](https://www.figma.com/proto/0HJH7Y4DLTVU3m8h3x1sCbAT/Untitled?node-id=2%3A0&scaling=min-zoom&redirected=1)
 
 * Explicación de cómo los contenidos y funcionalidades responden a los objetivos
   del proyecto. 
@@ -59,8 +58,7 @@ Al definir el producto recuerda pensar en:
 * Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
   necesidades del usuario final.
 
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
+* Link de Figma para compartir tus diseños con desarrolladores. [aquí](https://www.figma.com/file/0HJH7Y4DLTVU3m8h3x1sCbAT/Untitled?node-id=2%3A0)
 
 Un video en Loom de máximo 10 minutos explicando tu documento.
 * Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
@@ -73,7 +71,8 @@ Un video en Loom de máximo 10 minutos explicando tu documento.
 * Mapa de sitio
 * Etc.
 
-## Otras consideraciones
+Link [Trello](https://trello.com/b/dcWd39Sf/plataforma-de-ventas-en-l%C3%ADnea)
+
 
 
 
