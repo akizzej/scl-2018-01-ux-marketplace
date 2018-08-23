@@ -97,6 +97,8 @@ Un video en Loom de máximo 10 minutos explicando tu documento.
 * Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
   el `README.md` y para hacer un demo de la solución.
 
+* Link [Trello](https://trello.com/b/dcWd39Sf/plataforma-de-ventas-en-l%C3%ADnea)
+
 [Carpeta Google Drive](https://drive.google.com/open?id=1bOBceZfpAGXA5EHy9DFOfa_sny_pfahD)
 
 * Fotos, videos, guías de las actividades que realizaste
@@ -105,7 +107,7 @@ Un video en Loom de máximo 10 minutos explicando tu documento.
 * Wireframe, aprendizajes
 * Etc.
 
-* Link [Trello](https://trello.com/b/dcWd39Sf/plataforma-de-ventas-en-l%C3%ADnea)
+
 
 
 
