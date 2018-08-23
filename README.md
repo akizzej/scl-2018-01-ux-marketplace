@@ -50,7 +50,7 @@ La falta de un sistema de envíos a domicilio que le ahorre al usuario el tener 
 
 
 
-![sacando ideas de las entrevistas](../../img/fotos/taller.jpge).
+[sacando ideas de las entrevistas](https://drive.google.com/file/d/1-ZkyQycN8WyjmSUGGeIObb75JcSN2xfH/view?usp=sharing )
 
 
 
@@ -60,11 +60,11 @@ La falta de un sistema de envíos a domicilio que le ahorre al usuario el tener 
 
     (se definen 3 user persona con el fin de entender sus necesidades)
 
-    ![Daniela](https://drive.google.com/file/d/129BmSpzEYikmxofLllt5fIjm7GpNy-ho/view?usp=sharing).
+    [Daniela](https://drive.google.com/file/d/129BmSpzEYikmxofLllt5fIjm7GpNy-ho/view?usp=sharing).
 
-    ![Lidia](https://drive.google.com/file/d/1w4XAg9I8j14fHTuWxqvXx40mGcX3B6am/view?usp=sharing).
+    [Lidia](https://drive.google.com/file/d/1w4XAg9I8j14fHTuWxqvXx40mGcX3B6am/view?usp=sharing).
 
-    ![Manuel](https://drive.google.com/file/d/1hsF6Lc_44PApbN_eBSFh_El22NlFVqB9/view?usp=sharing).
+    [Manuel](https://drive.google.com/file/d/1hsF6Lc_44PApbN_eBSFh_El22NlFVqB9/view?usp=sharing).
 
 
 
@@ -88,7 +88,7 @@ Actualmente Poly Maker es un negocio que funciona sólo en redes sociales, siend
 
 
 
-En este punto había que plantearse que secciones serían relevantes para los usuarios finales y comenzamos dibujando como podría ser el [sitemap](https://drive.google.com/file/d/1kL6oAY4NeTQpib5qedcxi6dp7xKMOIPD/view?usp=sharing)
+En este punto había que plantearse que secciones serían relevantes para los usuarios finales y comenzamos dibujando como podría ser el [sitemap](https://docs.google.com/presentation/d/1zmIvrBdFkKEa0eVRvY5_kkMRRDcKO5RS9hhlJDVPUW8/edit?usp=sharing)
 
 
 
@@ -102,7 +102,7 @@ Cabe mencionar que en nuestra planificación en un comienzo no contaba con teste
 
 
 
-* [foto del proceso de sketching](https://drive.google.com/file/d/1gENXuS3uzt_FFfANdwOHo1yEc4YvL1-M/view?usp=sharing)
+![foto del proceso de sketching](/Users/admti/Desktop/Laboratoria/scl-2018-01-ux-marketplace/img/wireframe/general.jpeg)
 
 
 
