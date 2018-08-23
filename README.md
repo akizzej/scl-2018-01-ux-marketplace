@@ -64,7 +64,7 @@ La falta de un sistema de envíos a domicilio que le ahorre al usuario el tener 
 
     ![Lidia](https://drive.google.com/file/d/1w4XAg9I8j14fHTuWxqvXx40mGcX3B6am/view?usp=sharing).
 
-    ![Manuel](https://drive.google.com/file/d/1hsF6Lc_44PApbN_eBSFh_El22NlFVqB9/view?usp=sharing).
+    ![Manuel](/Users/admti/Desktop/Laboratoria/scl-2018-01-ux-marketplace/img/userPerson/manuel.pdf).
 
 
 
