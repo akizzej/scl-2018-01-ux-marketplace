@@ -176,23 +176,9 @@ La implementación de un sitio web para Poly Maker resuelve nuestros problemas y
 
 
 
-
-
-
-
 * Link a prototipo navegable [aquí](https://www.figma.com/proto/0HJH7Y4DLTVU3m8h3x1sCbAT/Untitled?node-id=2%3A0&scaling=min-zoom&redirected=1)
 
 
-
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-
-  del proyecto. 
-
-
-
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-
-  necesidades del usuario final.
 
 
 
