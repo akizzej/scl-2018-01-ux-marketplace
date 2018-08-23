@@ -82,7 +82,7 @@ La falta de un sistema de envíos a domicilio que le ahorre al usuario el tener 
 
 
 
-Tomando en cuenta los resultados de la investigación nos sentimos capaces de tirar las primeras líneas en búsqueda de la solución a nuestro problema.
+Tomando en cuenta los resultados de la investigación nos sentimos capaces de realizar las primeras líneas en búsqueda de la solución a nuestro problema.
 
 
 
