@@ -49,7 +49,7 @@ Polymaker tambien pretende aumentar la producción de sus productos e incorporar
 
 Cabe mencionar que en nuestra planificación en un comienzo no contaba con testeo de prototipos, fue una decisión difícil, pero en ese momento priorizamos el prototipado de contenido, ya que Polymaker tiene principalmente dos productos, pero no contamos con la amplia gama de categorias que incluía cada uno. Y si bien iniciamos un proceso de sketching y wireframing, no pudimos darmos cuenta de los problemas que tenía hasta que decidimos incluir el testeo en nuestro proyecto.
 
-(https://drive.google.com/file/d/1gENXuS3uzt_FFfANdwOHo1yEc4YvL1-M/view?usp=sharing)
+[sketch](https://drive.google.com/file/d/1gENXuS3uzt_FFfANdwOHo1yEc4YvL1-M/view?usp=sharing)
 
 Esta decisión fue tomada a conciencia, confiando en nuestros criterios a la hora de ordenar las categorias de los productos de nuestro emprendedor, tambien tomamos en cuenta un breve ejercicio de card sorting realizado en clases y pensando que los contenidos igual serían testeados junto con el prototipo y de encontrar alguna falla podríamos corregirla en el momento.
 
@@ -63,8 +63,8 @@ Lo mismo sucedió con los siguientes dos usuarios que además mencionaron que la
 
 De todas formas el testeo resultó muy bien, porque a pesar de lo anteriormente mencionado, todos los usuarios pudieron lograr la tarea y lo mejor de todo fue que obtuvimos un valioso feedback para iterar en el diseño antes de seguir testeando.
 
-![aprendizaje](https://drive.google.com/file/d/15pzNHdcET9LQ4gJZC-3Vfu-w131ZzZJZ/view?usp=sharing)
-![aprendizaje](https://drive.google.com/file/d/1msifD-CJhMsokqZ1Qpc-dw-2Vhgtmyzd/view?usp=sharing)
+[aprendizaje](https://drive.google.com/file/d/15pzNHdcET9LQ4gJZC-3Vfu-w131ZzZJZ/view?usp=sharing)
+[aprendizaje](https://drive.google.com/file/d/1msifD-CJhMsokqZ1Qpc-dw-2Vhgtmyzd/view?usp=sharing)
 
 ### Propuesta de valor 
 
@@ -74,7 +74,7 @@ Nuestra propuesta de valor para este sitio web será ofrecer variedad en product
 
 El contenido de la página estará distribuido en distintas secciones en base a la información que los usuarios necesitan para tomar una decisión de compra, ya que para ellos es importante saber a quién le estan comprando como tambien les importa contar con las opiniones de otros usuarios que ya han adquirido los mismos productos con anterioridad y saber además en que ferias participará proximamente Polimaker. Además la página de Polimaker al reunir todos sus productos ordenados por categorias con una ficha que contiene la información de cada producto (tamaño, color, material, etc.) le permite al usuario elegir con mayor facilidad. Mientras que incorporar la opción de comprar directamente desde la página web en pocos pasos y además poder gestionar el tipo de envío hace que la experiencia sea mucho más rápida y amigable.
 
-### la Solución 
+### La Solución 
 
 La implementación de un sitio web para Polymaker resuelve nuestros problemas ya que permite mostrar a nuestra emprendedora como una empresa online. Misma que cuenta con una galería de productos con stock permanentemente actualizado y que los mostrará de una forma más ordenada y detallada, tambien nuestra emprendedora mantendrá la cercanía con sus actuales clientes ya que los podrá tener informados sobre las ferias a las que asistirá y nuevos proyectos, generará confianza entre los clientes al contar con opiniones de otros que ya han comprado antes, le permitirá optimizar sus canales de comunicación ya que todas las dudas o pedidos especiales se harán por este canal permitiendóle hacer mejor uso de su tiempo y por último que este sitio web cuente con la opción de pago y envío incorporada facilitará la adquisición de sus productos llevando a polymaker a un nuevo nivel donde la experiencia del usuario al adquirir los productos toma un rol fundamental.
 
@@ -107,47 +107,3 @@ Link [Trello](https://trello.com/b/dcWd39Sf/plataforma-de-ventas-en-l%C3%ADnea)
 
 
 
-## Hacker edition
-
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
-- Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarróllalos
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
-Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
-mobile-friendly. Despliega el código en GitHub Pages o Heroku.
-- Escribe un post en Medium contando tu proceso de investigación
-
-## Evaluación
-
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
-
-### UX Design
-
-|Habilidad|Nivel Esperado|
-|:---|:---|
-|User centricity| 4 |
-|Planificación| 3 |
-|Entrevistas y testing| 3 |
-|Observación| 2 |
-|Síntesis de resultados| 3 |
-|Flujos de usuario| 3 |
-|Arquitectura de la información| 3 |
-|Prototyping| 3 |
-|Business mindset| 4 |
-|Visual Design| 4 |
-
-### Habilidades blandas
-
-|Habilidad|Nivel Esperado|
-|:---|:---|
-|Planificación y organización| 4 |
-|Autoaprendizaje| 4 |
-|Solución de problemas| 4 |
-|Dar y recibir feedback| 4 |
-|Adaptabilidad| 4 |
-|Trabajo en equipo| 4 |
-|Comunicación eficaz| 4 |
-|Presentaciones| 4 |
