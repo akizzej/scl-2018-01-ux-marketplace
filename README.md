@@ -70,7 +70,7 @@ De todas formas el testeo resultó muy bien, porque a pesar de lo anteriormente 
 
 Nuestra propuesta de valor para este sitio web será ofrecer variedad en productos (Cortadores de galleta y maceteros por el momento) de excelente calidad, no tóxicos, originales, divertidos con la posibilidad de ser consultados o comprados desde su propia página web, acordando el medio de envío con el usuario, brindándole así seguridad y rápidez en su compra.
 
-## El contenido
+### El contenido
 
 El contenido de la página estará distribuido en distintas secciones en base a la información que los usuarios necesitan para tomar una decisión de compra, ya que para ellos es importante saber a quién le estan comprando como tambien les importa contar con las opiniones de otros usuarios que ya han adquirido los mismos productos con anterioridad y saber además en que ferias participará proximamente Polimaker. Además la página de Polimaker al reunir todos sus productos ordenados por categorias con una ficha que contiene la información de cada producto (tamaño, color, material, etc.) le permite al usuario elegir con mayor facilidad. Mientras que incorporar la opción de comprar directamente desde la página web en pocos pasos y además poder gestionar el tipo de envío hace que la experiencia sea mucho más rápida y amigable.
 
