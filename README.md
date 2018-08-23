@@ -50,7 +50,7 @@ La falta de un sistema de envíos a domicilio que le ahorre al usuario el tener 
 
 
 
-![sacando ideas de las entrevistas](/Users/admti/Desktop/Laboratoria/scl-2018-01-ux-marketplace/img/fotos/taller.jpeg)
+![sacando ideas de las entrevistas](../../img/fotos/taller.jpge).
 
 
 
