@@ -25,6 +25,8 @@ Desconfianza por parte de los usuarios al momento de pagar en línea.
 La falta de un canal unificado de comunicación que permita optimizar la entrega de información o toma de pedidos.
 La falta de un sistema de envios a domicilio que le ahorre al usuario el tener que juntarse en algún lado.
 
+* [sacando ideas de las entrevistas](https://drive.google.com/file/d/1-ZkyQycN8WyjmSUGGeIObb75JcSN2xfH/view?usp=sharing)
+
 * Definición del público objetivo
     * User persona 
     (se definen 3 user persona con el fin de entender sus necesidades)
@@ -53,6 +55,8 @@ Cabe mencionar que en nuestra planificación en un comienzo no contaba con teste
 
 
 Esta decisión fue tomada a conciencia, confiando en nuestros criterios a la hora de ordenar las categorias de los productos de nuestro emprendedor, tambien tomamos en cuenta un breve ejercicio de card sorting realizado en clases y pensando que los contenidos igual serían testeados junto con el prototipo y de encontrar alguna falla podríamos corregirla en el momento.
+
+* [foto de la actividad realizada en clases](https://drive.google.com/file/d/1HqeQ86qvrXsVO0Dv3mlIPBD7KuVEH0ai/view?usp=sharing)
 
 Al no tener considerado en un principio el testeo de prototipos esto nos permitió pasar rápidamente a nuestro mockup, y por último al prototipo de alta fidelidad, fue en esta instancia que nos replanteamos el testeo, ya que no encontrabamos problemas a simple vista e igual nos cuestionabamos que aprendizajes podríamos mencionar si realmente no habiamos iterado sobre nuestra propuesta. Además pensando en que este producto no es para nosotras sino para un usuario realizamos el cambio en la planeación y empezamos a testear.
 
