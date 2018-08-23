@@ -68,7 +68,7 @@ La falta de un sistema de envíos a domicilio que le ahorre al usuario el tener 
 
 
 
-    * Customer Journey Map ![aquí](https://drive.google.com/file/d/1-KgeUGA6iJVMcMGTwM2cgFs6480y6mk0/view?usp=sharing)
+    * Customer Journey Map [aquí](https://drive.google.com/file/d/1-KgeUGA6iJVMcMGTwM2cgFs6480y6mk0/view?usp=sharing)
 
 
 
@@ -102,7 +102,7 @@ Cabe mencionar que en nuestra planificación en un comienzo no contaba con teste
 
 
 
-![foto del proceso de sketching](/Users/admti/Desktop/Laboratoria/scl-2018-01-ux-marketplace/img/wireframe/general.jpeg)
+[foto del proceso de sketching](/Users/admti/Desktop/Laboratoria/scl-2018-01-ux-marketplace/img/wireframe/general.jpeg)
 
 
 
@@ -111,8 +111,7 @@ Cabe mencionar que en nuestra planificación en un comienzo no contaba con teste
 Esta decisión fue tomada a conciencia, confiando en nuestros criterios a la hora de ordenar las categorías de los productos de nuestro emprendedor, también tomamos en cuenta un breve ejercicio de card sorting realizado en clases y pensando que los contenidos igual serían testeados junto con el prototipo y de encontrar alguna falla podríamos corregirla en el momento.
 
 
-
-* [foto de la actividad realizada en clases](https://drive.google.com/file/d/1HqeQ86qvrXsVO0Dv3mlIPBD7KuVEH0ai/view?usp=sharing)
+[foto de la actividad realizada en clases](https://drive.google.com/file/d/1HqeQ86qvrXsVO0Dv3mlIPBD7KuVEH0ai/view?usp=sharing)
 
 
 
