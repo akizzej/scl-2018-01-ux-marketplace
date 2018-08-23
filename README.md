@@ -8,7 +8,7 @@ Poly Maker es un emprendimiento que se dedica a la impresión de cortadores de g
 
 
 
-##Investigación
+## Investigación
 
 
 
@@ -20,7 +20,7 @@ En esta etapa decidimos primero que nada investigar cómo es el actual  proceso 
 
 
 
-La mayor dificultad para los usuarios de Poly Maker es la desconfianza generada a la hora de realizar un pago vía web a una persona que no conocen, también el tener que juntarse en algún lugar para la entrega de un producto, normalmente prefieren las ferias para realizar la compra cara a cara y así evitar complicaciones.
+La mayor dificultad para los usuarios de Poly Maker es la desconfianza generada a la hora de realizar un pago vía transferencia electrónica a una persona que no conocen, también el tener que juntarse en algún lugar para la entrega de un producto, normalmente prefieren las ferias donde asiste Poly Maker para realizar la compra cara a cara y así evitar complicaciones.
 
 
 
@@ -38,8 +38,6 @@ Lograr mediante la implementación de una plataforma e-commerce una mayor visibi
 
 * Problemas identificados en la investigación (del cliente y del usuario)
 
-
-
 Poca visibilidad de la marca.
 
 Mala imagen corporativa.
@@ -52,7 +50,7 @@ La falta de un sistema de envíos a domicilio que le ahorre al usuario el tener 
 
 
 
-* [sacando ideas de las entrevistas](https://drive.google.com/file/d/1-ZkyQycN8WyjmSUGGeIObb75JcSN2xfH/view?usp=sharing )
+![sacando ideas de las entrevistas](https://drive.google.com/file/d/1-ZkyQycN8WyjmSUGGeIObb75JcSN2xfH/view?usp=sharing )
 
 
 
@@ -62,15 +60,15 @@ La falta de un sistema de envíos a domicilio que le ahorre al usuario el tener 
 
     (se definen 3 user persona con el fin de entender sus necesidades)
 
-    *[Daniela](https://drive.google.com/file/d/129BmSpzEYikmxofLllt5fIjm7GpNy-ho/view?usp=sharing).
+    ![Daniela](https://drive.google.com/file/d/129BmSpzEYikmxofLllt5fIjm7GpNy-ho/view?usp=sharing).
 
-    *[Lidia](https://drive.google.com/file/d/1w4XAg9I8j14fHTuWxqvXx40mGcX3B6am/view?usp=sharing).
+    ![Lidia](https://drive.google.com/file/d/1w4XAg9I8j14fHTuWxqvXx40mGcX3B6am/view?usp=sharing).
 
-    *[Manuel](https://drive.google.com/file/d/1hsF6Lc_44PApbN_eBSFh_El22NlFVqB9/view?usp=sharing).
+    ![Manuel](https://drive.google.com/file/d/1hsF6Lc_44PApbN_eBSFh_El22NlFVqB9/view?usp=sharing).
 
 
 
-    * Customer Journey Map *[aquí](https://drive.google.com/file/d/1-KgeUGA6iJVMcMGTwM2cgFs6480y6mk0/view?usp=sharing)
+    * Customer Journey Map ![aquí](https://drive.google.com/file/d/1-KgeUGA6iJVMcMGTwM2cgFs6480y6mk0/view?usp=sharing)
 
 
 
