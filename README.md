@@ -102,7 +102,7 @@ Cabe mencionar que en nuestra planificación en un comienzo no contaba con teste
 
 
 
-[foto del proceso de sketching](/Users/admti/Desktop/Laboratoria/scl-2018-01-ux-marketplace/img/wireframe/general.jpeg)
+[foto del proceso de sketching](https://drive.google.com/file/d/1gENXuS3uzt_FFfANdwOHo1yEc4YvL1-M/view?usp=sharing)
 
 
 
