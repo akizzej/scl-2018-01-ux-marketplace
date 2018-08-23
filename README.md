@@ -49,7 +49,8 @@ Polymaker tambien pretende aumentar la producción de sus productos e incorporar
 
 Cabe mencionar que en nuestra planificación en un comienzo no contaba con testeo de prototipos, fue una decisión difícil, pero en ese momento priorizamos el prototipado de contenido, ya que Polymaker tiene principalmente dos productos, pero no contamos con la amplia gama de categorias que incluía cada uno. Y si bien iniciamos un proceso de sketching y wireframing, no pudimos darmos cuenta de los problemas que tenía hasta que decidimos incluir el testeo en nuestro proyecto.
 
-[sketch](https://drive.google.com/file/d/1gENXuS3uzt_FFfANdwOHo1yEc4YvL1-M/view?usp=sharing)
+* [foto del proceso de sketching](https://drive.google.com/file/d/1gENXuS3uzt_FFfANdwOHo1yEc4YvL1-M/view?usp=sharing)
+
 
 Esta decisión fue tomada a conciencia, confiando en nuestros criterios a la hora de ordenar las categorias de los productos de nuestro emprendedor, tambien tomamos en cuenta un breve ejercicio de card sorting realizado en clases y pensando que los contenidos igual serían testeados junto con el prototipo y de encontrar alguna falla podríamos corregirla en el momento.
 
@@ -63,8 +64,9 @@ Lo mismo sucedió con los siguientes dos usuarios que además mencionaron que la
 
 De todas formas el testeo resultó muy bien, porque a pesar de lo anteriormente mencionado, todos los usuarios pudieron lograr la tarea y lo mejor de todo fue que obtuvimos un valioso feedback para iterar en el diseño antes de seguir testeando.
 
-[aprendizaje](https://drive.google.com/file/d/15pzNHdcET9LQ4gJZC-3Vfu-w131ZzZJZ/view?usp=sharing)
-[aprendizaje](https://drive.google.com/file/d/1msifD-CJhMsokqZ1Qpc-dw-2Vhgtmyzd/view?usp=sharing)
+* [aprendizaje1](https://drive.google.com/file/d/15pzNHdcET9LQ4gJZC-3Vfu-w131ZzZJZ/view?usp=sharing)
+
+* [aprendizaje2](https://drive.google.com/file/d/1msifD-CJhMsokqZ1Qpc-dw-2Vhgtmyzd/view?usp=sharing)
 
 ### Propuesta de valor 
 
@@ -100,9 +102,10 @@ Un video en Loom de máximo 10 minutos explicando tu documento.
 * Fotos, videos, guías de las actividades que realizaste
 * Flujo de usuario
 * Mapa de sitio
+* Wireframe, aprendizajes
 * Etc.
 
-Link [Trello](https://trello.com/b/dcWd39Sf/plataforma-de-ventas-en-l%C3%ADnea)
+* Link [Trello](https://trello.com/b/dcWd39Sf/plataforma-de-ventas-en-l%C3%ADnea)
 
 
 
