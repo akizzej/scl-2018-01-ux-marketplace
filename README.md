@@ -174,7 +174,7 @@ La implementación de un sitio web para Poly Maker resuelve nuestros problemas y
 
 * Link a prototipo navegable [aquí](https://www.figma.com/proto/0HJH7Y4DLTVU3m8h3x1sCbAT/Untitled?node-id=2%3A0&scaling=min-zoom&redirected=1)
 
-
+* Link a Presentación [aquí](https://drive.google.com/file/d/1UV8mYIY3SpdaXx0udYcIJOjmgqDYo6IK/view?usp=sharing)
 
 
 
