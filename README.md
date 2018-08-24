@@ -62,9 +62,9 @@ La falta de un sistema de envíos a domicilio que le ahorre al usuario el tener 
 
     ![Daniela](/Users/admti/Desktop/Laboratoria/scl-2018-01-ux-marketplace/img/userPerson/Daniela.png).
 
-    [Lidia](/Users/admti/Desktop/Laboratoria/scl-2018-01-ux-marketplace/img/userPerson/lidia.png).
+    ![Lidia](/Users/admti/Desktop/Laboratoria/scl-2018-01-ux-marketplace/img/userPerson/lidia.png).
 
-    [Manuel](/Users/admti/Desktop/Laboratoria/scl-2018-01-ux-marketplace/img/userPerson/manuel.png).
+    ![Manuel](/Users/admti/Desktop/Laboratoria/scl-2018-01-ux-marketplace/img/userPerson/manuel.png).
 
 
 
