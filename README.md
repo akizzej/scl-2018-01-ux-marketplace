@@ -60,7 +60,7 @@ La falta de un sistema de envíos a domicilio que le ahorre al usuario el tener 
 
     (se definen 3 user persona con el fin de entender sus necesidades)
 
-    ![Daniela](/Users/admti/Desktop/Laboratoria/scl-2018-01-ux-marketplace/img/userPerson/Daniela.png).
+    ![Daniela](../userPerson/Daniela.png).
 
     ![Lidia](/Users/admti/Desktop/Laboratoria/scl-2018-01-ux-marketplace/img/userPerson/lidia.png).
 
