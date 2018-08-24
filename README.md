@@ -16,7 +16,7 @@ El proceso de investigación es fundamental en la creación de nuestro producto.
 
 
 
-En esta etapa decidimos primero que nada investigar cómo es el actual  proceso de ventas de polymaker para entender si existe una problemática que solucionar, luego de esta etapa de observación inicial procedimos a entrevistar a las personas directamente involucradas en la mejora del canal de ventas de Poly Maker, estas entrevistas fueron con la encargada de comunicaciones de la ANPC y con la creadora del emprendimiento, luego de estas entrevistas pudimos entender a grandes rasgos cuál es el actual problema que aqueja a nuestra emprendedora, la poca visibilidad, la falta de un canal unificado de comunicación entre la emprendedora y los compradores, una plataforma que respalde y brinde confianza a los consumidores al momento de comprar, etc. Ahora era el momento de entrevistar a sus usuarios.
+En esta etapa decidimos primero que todo investigar cómo es el actual  proceso de ventas de polymaker para entender si existe una problemática que solucionar, luego de esta etapa de observación inicial procedimos a entrevistar a las personas directamente involucradas en la mejora del canal de ventas de Poly Maker, estas entrevistas fueron con la encargada de comunicaciones de la ANPC y con la creadora del emprendimiento, luego de estas entrevistas pudimos entender a grandes rasgos cuál es el actual problema que aqueja a nuestra emprendedora, la poca visibilidad, la falta de un canal unificado de comunicación entre la emprendedora y los compradores, una plataforma que respalde y brinde confianza a los consumidores al momento de comprar, etc. Ahora era el momento de entrevistar a sus usuarios.
 
 
 
@@ -183,11 +183,7 @@ La implementación de un sitio web para Poly Maker resuelve nuestros problemas y
 
 
 
-Un video en Loom de máximo 10 minutos explicando tu documento.
-
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-
-  el `README.md` y para hacer un demo de la solución.
+* Video explicando nuestro proyecto [aquí](https://www.useloom.com/share/21ea4dba6cb14b0d85ffddad5f039992)
 
 
 
