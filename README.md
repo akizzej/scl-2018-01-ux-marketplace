@@ -202,4 +202,6 @@ La implementación de un sitio web para Poly Maker resuelve nuestros problemas y
 
 * Wireframe, aprendizajes
 
+* Inventario de contenido
+
 * Etc.
