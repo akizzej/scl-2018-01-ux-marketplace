@@ -12,7 +12,7 @@ Poly Maker es un emprendimiento que se dedica a la impresión de cortadores de g
 
 
 
-El proceso de investigación es fundamental en la creación de nuestro producto. Comparar las distintas soluciones que actualmente existen en el mercado a través de un benchmark, nos permitió darnos cuenta de que Poly Maker actualmente no cuenta con un competidor directo, porque si bien existen muchas empresas que se dedican a la impresión 3d, Poly Maker es la única que crea estos productos (cortadores de galletas y maceteros) para un público que gusta de los video juegos, anime y cosas frikis en general.
+El proceso de investigación es fundamental en la creación de nuestro producto. Comparar las distintas soluciones que actualmente existen en el mercado a través de un [benchmark](https://drive.google.com/file/d/1kdNHXdqm5RJJnjOZT8hOFjM01cUJBa3z/view?usp=sharing), nos permitió darnos cuenta de que Poly Maker actualmente no cuenta con un competidor directo, porque si bien existen muchas empresas que se dedican a la impresión 3d, Poly Maker es la única que crea estos productos (cortadores de galletas y maceteros) para un público que gusta de los video juegos, anime y cosas frikis en general.
 
 
 
