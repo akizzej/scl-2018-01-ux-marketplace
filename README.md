@@ -133,9 +133,8 @@ Lo mismo sucedió con los siguientes dos usuarios que además mencionaron que la
 
 De todas formas el testeo resultó muy bien, porque a pesar de lo anteriormente mencionado, todos los usuarios pudieron lograr la tarea y lo mejor de todo fue que obtuvimos un valioso feedback para iterar en el diseño antes de seguir testeando.
 
-
-
-
+Luego de la iteración testeamos nuevamente el prototipo y obtuvimos excelentes resultados, el flujo de la página y el orden de las categorias funcionan muy bien.
+Estamos convencidas que nuestro producto responde a las necesidades, tanto de la emprendedora como de sus usuarios.
 
 
 
