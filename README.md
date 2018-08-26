@@ -50,7 +50,7 @@ La falta de un sistema de envíos a domicilio que le ahorre al usuario el tener 
 
 
 
-[sacando ideas de las entrevistas](https://drive.google.com/file/d/1-ZkyQycN8WyjmSUGGeIObb75JcSN2xfH/view?usp=sharing )
+![sacando ideas de las entrevistas](https://user-images.githubusercontent.com/39282697/44632846-6e724980-a958-11e8-9912-f2287b807c0c.jpeg)
 
 
 
@@ -60,11 +60,10 @@ La falta de un sistema de envíos a domicilio que le ahorre al usuario el tener 
 
     (se definen 3 user persona con el fin de entender sus necesidades)
 
-    [Daniela](https://drive.google.com/file/d/129BmSpzEYikmxofLllt5fIjm7GpNy-ho/view?usp=sharing).
+![daniela](https://user-images.githubusercontent.com/39282697/44632867-c4df8800-a958-11e8-8a96-84bbdcfe62e4.png)
+![lidia](https://user-images.githubusercontent.com/39282697/44632868-c5781e80-a958-11e8-938c-f8187f185224.png)
+![manuel](https://user-images.githubusercontent.com/39282697/44632869-c741e200-a958-11e8-9806-c5401274305b.png)
 
-    [Lidia](https://drive.google.com/file/d/1w4XAg9I8j14fHTuWxqvXx40mGcX3B6am/view?usp=sharing).
-
-    [Manuel](https://drive.google.com/file/d/1hsF6Lc_44PApbN_eBSFh_El22NlFVqB9/view?usp=sharing).
 
 
 
@@ -102,7 +101,7 @@ Cabe mencionar que en nuestra planificación en un comienzo no contaba con teste
 
 
 
-[foto del proceso de sketching](https://drive.google.com/file/d/1gENXuS3uzt_FFfANdwOHo1yEc4YvL1-M/view?usp=sharing)
+![Foto del proceso de prototipado](https://user-images.githubusercontent.com/39282697/44632883-17b93f80-a959-11e8-915d-95c1b9de397e.jpeg)
 
 
 
@@ -111,7 +110,7 @@ Cabe mencionar que en nuestra planificación en un comienzo no contaba con teste
 Esta decisión fue tomada a conciencia, confiando en nuestros criterios a la hora de ordenar las categorías de los productos de nuestro emprendedor, también tomamos en cuenta un breve ejercicio de card sorting realizado en clases y pensando que los contenidos igual serían testeados junto con el prototipo y de encontrar alguna falla podríamos corregirla en el momento.
 
 
-[foto de la actividad realizada en clases](https://drive.google.com/file/d/1HqeQ86qvrXsVO0Dv3mlIPBD7KuVEH0ai/view?usp=sharing)
+![Foto actividad realizada en clases](https://user-images.githubusercontent.com/39282697/44632832-1c312880-a958-11e8-8699-9327091748af.jpeg)
 
 
 
@@ -138,11 +137,10 @@ Estamos convencidas que nuestro producto responde a las necesidades, tanto de la
 
 
 
-* [aprendizaje1](https://drive.google.com/file/d/15pzNHdcET9LQ4gJZC-3Vfu-w131ZzZJZ/view?usp=sharing)
 
+![aprendizaje 1](https://user-images.githubusercontent.com/39282697/44632891-47684780-a959-11e8-971d-8442555aafa4.jpeg)
+![aprendizaje 2](https://user-images.githubusercontent.com/39282697/44632892-47684780-a959-11e8-9636-6617d5916b88.jpeg)
 
-
-* [aprendizaje2](https://drive.google.com/file/d/1msifD-CJhMsokqZ1Qpc-dw-2Vhgtmyzd/view?usp=sharing)
 
 
 
