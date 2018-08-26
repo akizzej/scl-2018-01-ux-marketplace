@@ -66,8 +66,8 @@ La falta de un sistema de envíos a domicilio que le ahorre al usuario el tener 
 
 
 
-
-    * Customer Journey Map [aquí](https://drive.google.com/file/d/1-KgeUGA6iJVMcMGTwM2cgFs6480y6mk0/view?usp=sharing)
+* Customer Journey Map [aquí](https://drive.google.com/file/d/1-KgeUGA6iJVMcMGTwM2cgFs6480y6mk0/view?usp=sharing)
+   
 
 
 
